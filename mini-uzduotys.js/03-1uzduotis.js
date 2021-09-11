@@ -35,9 +35,9 @@ console.log('---------');
    Jeigu 200 daugiau uz 10 - Pomidoras
 */
 if (a < b) {
-    console.log('Bandykite kitą kartą');
-} else {
     console.log('Pomidoras');
+} else {
+    console.log('Bandykite kitą kartą');
 }
 
 console.log('---------');
