@@ -7,6 +7,7 @@
 // d.	ar jie nelygūs
 // e.	kuris didesnis arba lygus
 // f.	kuris mažesnis arba lygus
+
 // 2.	Išvesti teksto tipo kintamųjų ilgius
 // 3.	Tarpusavyje palyginti teksto tipo kintamųjų ilgius:
 // a.	kuris didesnis
@@ -15,6 +16,7 @@
 // d.	ar jie nelygūs
 // e.	kuris didesnis arba lygus
 // f.	kuris mažesnis arba lygus
+
 // 4.	Išvesti sąrašo tipo kintamųjų ilgius
 // 5.	Tarpusavyje palyginti sąrašo tipo kintamųjų ilgius:
 // a.	kuris didesnis
@@ -23,4 +25,3 @@
 // d.	ar jie nelygūs
 // e.	kuris didesnis arba lygus
 // f.	kuris mažesnis arba lygus
->>
