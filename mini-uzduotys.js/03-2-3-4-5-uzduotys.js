@@ -9,17 +9,69 @@ console.log(vaisiai[1].length);
 console.log(vaisiai[2].length);
 console.log(vaisiai[3].length);
 
-
-
-
+console.log('---------');
 
 // 3.	Tarpusavyje palyginti teksto tipo kintamųjų ilgius:
+
 // a.	kuris didesnis
+if (vaisiai[0].length > vaisiai[1].length) {
+    console.log('Pomidoras');
+} else {
+    console.log('Bandykite kitą kartą.');
+}
+
+console.log('---------');
+
+
 // b.	kuris mažesnis
+if (vaisiai[0].length < vaisiai[1].length) {
+    console.log('Pomidoras');
+} else {
+    console.log('Bandykite kitą kartą.');
+}
+
+console.log('---------');
+
+
 // c.	ar jie lygūs
+if (vaisiai[0].length === vaisiai[1].length) {
+    console.log('Pomidoras');
+} else {
+    console.log('Bandykite kitą kartą.');
+}
+
+console.log('---------');
+
+
 // d.	ar jie nelygūs
+if (vaisiai[0].length !== vaisiai[1].length) {
+    console.log('Pomidoras');
+} else {
+    console.log('Bandykite kitą kartą.');
+}
+
+console.log('---------');
+
+
 // e.	kuris didesnis arba lygus
+if (vaisiai[0].length >= vaisiai[1].length) {
+    console.log('Pomidoras');
+} else {
+    console.log('Bandykite kitą kartą.');
+}
+
+console.log('---------');
+
+
 // f.	kuris mažesnis arba lygus
+if (vaisiai[0].length <= vaisiai[1].length) {
+    console.log('Pomidoras');
+} else {
+    console.log('Bandykite kitą kartą.');
+}
+
+console.log('---------');
+
 
 // 4.	Išvesti sąrašo tipo kintamųjų ilgius
 
