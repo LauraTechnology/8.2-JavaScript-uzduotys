@@ -7,32 +7,17 @@
 //f.	-70 - 30
 
 
-// const nuo = 0;
-// const iki = 100;
-// 
-// for (let indexA = nuo; indexA <= iki; indexA++) {
-// 
-// }
+const nuo = 0;
+const iki = 4;
+let suma = 0;
 
-for (let indexB = 0; indexB <= 4; indexB++) {
-    console.log(indexB);
+for (let skaičius = nuo; skaičius <= iki; skaičius++) {
+    suma += skaičius; /* suma = suma + skaičius */
 }
 
-for (let indexC = 0; indexC <= 100; indexC++) {
-    console.log(indexC);
-}
+const ats = `Intervale nuo ${nuo} iki ${iki} suma yra ${suma}.`;
+console.log(ats);
 
-for (let indexD = 574; indexD <= 815; indexD++) {
-    console.log(indexD);
-}
-
-for (let indexE = -50; indexE <= 50; indexE++) {
-    console.log(indexE);
-}
-
-for (let indexF = -70; indexF <= 30; indexF++) {
-    console.log(indexF)
-}
 
 
 
