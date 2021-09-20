@@ -6,7 +6,33 @@
 //e.	-50 - 50
 //f.	-70 - 30
 
-for (let skaičius = 0 )
+
+// const nuo = 0;
+// const iki = 100;
+// 
+// for (let indexA = nuo; indexA <= iki; indexA++) {
+// 
+// }
+
+for (let indexB = 0; indexB <= 4; indexB++) {
+    console.log(indexB);
+}
+
+for (let indexC = 0; indexC <= 100; indexC++) {
+    console.log(indexC);
+}
+
+for (let indexD = 574; indexD <= 815; indexD++) {
+    console.log(indexD);
+}
+
+for (let indexE = -50; indexE <= 50; indexE++) {
+    console.log(indexE);
+}
+
+for (let indexF = -70; indexF <= 30; indexF++) {
+    console.log(indexF)
+}
 
 
 
