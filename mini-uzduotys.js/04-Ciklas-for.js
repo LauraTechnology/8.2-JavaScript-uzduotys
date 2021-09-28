@@ -7,6 +7,10 @@
 //f.	-70 - 30
 
 
+
+
+console.log('------------');
+
 const nuo = 0;
 const iki = 4;
 let suma = 0;
