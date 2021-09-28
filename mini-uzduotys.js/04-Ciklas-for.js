@@ -6,7 +6,15 @@
 //e.	-50 - 50
 //f.	-70 - 30
 
+//Isspausdinti skaiciaus imtinai
 
+const nuo1 = 0;
+const iki1 = 4;
+
+
+for ( i=0; i <= 4; i++) {
+    console.log(imtinai);
+}
 
 
 console.log('------------');
